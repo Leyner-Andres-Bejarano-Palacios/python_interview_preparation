@@ -136,3 +136,86 @@ Do you understand the difference between "==" and "is" ?
 <details><summary><b>Source</b></summary>
 learning python 5th edition - pag 186
 </details>
+
+### Theorical Question 10
+
+Do you know what would happen if you don't close a python file?
+
+![Image](img/notClosingFile.png "notClosingFile")
+
+<details><summary><b>Answer</b></summary>
+
+Calling the file close method terminates your connection to the external file, re-
+leases its system resources, and flushes its buffered output to disk if any is still in
+memory. As discussed in Chapter 6, in Python an object’s memory space is auto-
+matically reclaimed as soon as the object is no longer referenced anywhere in the
+program.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 290
+</details>
+
+### Theorical Question 11
+
+Do you know what we use pickle for?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/picleForSerialization.png "picleForSerialization")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 290
+</details>
+
+### Theorical Question 12
+
+Do you understand the difference between generators and functions?
+
+<details><summary><b>Answer</b></summary>
+
+return sends a result object back to the caller. When a function is called, the
+caller stops until the function finishes its work and returns control to the caller.
+Functions that compute a value send it back to the caller with a return statement;
+the returned value becomes the result of the function call. A return without a value
+simply returns to the caller (and sends back None , the default result).
+
+yield sends a result object back to the caller, but remembers where it left
+off. Special word "yield" create a generator. Functions known as generators may also use the yield statement to send back
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 475
+</details>
+
+### Theorical Question 13
+
+Do you know the argument matching syntax?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/argumentMatchingSyntax.png "argument Matching Syntax")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 530
+</details>
+
+### Theorical Question 14
+
+When you are importing a module in python do you know where does it look for it ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/importingModules.png "importin gModules")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 638
+</details>
