@@ -292,3 +292,35 @@ Do you understand what abstractMethod are for in python  ?
 <details><summary><b>Source</b></summary>
 learning python 5th edition - pag 870
 </details>
+
+### Theorical Question 19
+
+Do you know what the special methods __iter__ and __next__ are for ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/iterNext.png "iter and next")
+
+![Image](img/iterNextPart2.png "iter and next par2")
+
+![Image](img/iterNextPart3.png "iter and next par3")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 895
+</details>
+
+### Theorical Question 20
+
+Do you know what the special method __call__ ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/callMethod.png "call method")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 922
+</details>
