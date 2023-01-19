@@ -324,3 +324,97 @@ Do you know what the special method __call__ ?
 <details><summary><b>Source</b></summary>
 learning python 5th edition - pag 922
 </details>
+
+### Theorical Question 21
+
+How do you create a private variable in python ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/pythonPrivateVar.png "python Private Var")
+
+![Image](img/pythonPrivateVarPart2.png "python Private Var Part2")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 945
+</details>
+
+### Theorical Question 22
+
+Do you understand what static and class methods are ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/staticClassMethods.png "static Class Methods")
+
+![Image](img/staticClassMethodsPart2.png "static Class Methods Part2")
+
+![Image](img/staticClassMethodsPart3.png "static Class Methods Part3")
+
+![Image](img/staticClassMethodsPart4.png "static Class Methods Part4")
+
+![Image](img/staticClassMethodsPart5.png "static Class Methods Part5")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 945
+</details>
+
+### Theorical Question 23
+
+Do you understand what decorators are ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/decorators.png "decorators")
+
+![Image](img/decoratorsP2.png "decorators")
+
+![Image](img/decoratorsP3.png "decorators")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 1035
+</details>
+
+### Theorical Question 24
+
+Do you understand what exceptions are ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/exceptions.png "exceptions")
+
+![Image](img/exceptionsP2.png "exceptions Part2")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 1081
+</details>
+
+### Theorical Question 25
+
+Do you understand what managed attributes and properties are ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/managedAttibues.png "managed Attibues")
+
+![Image](img/managedAttibuesP2.png "managed Attibues Part2")
+
+![Image](img/properties.png "properties")
+
+![Image](img/propertiesP2.png "properties")
+
+![Image](img/propertiesP3.png "properties")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 1081
+</details>
