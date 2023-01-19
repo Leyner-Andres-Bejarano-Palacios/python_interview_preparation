@@ -219,3 +219,19 @@ When you are importing a module in python do you know where does it look for it 
 <details><summary><b>Source</b></summary>
 learning python 5th edition - pag 638
 </details>
+
+### Theorical Question 15
+
+Do you understand what these lines are for in a python program ?
+
+![Image](img/name_main.png "name_main")
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/name_main_answer.png "name main answer")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 638
+</details>
