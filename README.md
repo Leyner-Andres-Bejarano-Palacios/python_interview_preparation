@@ -235,3 +235,60 @@ Do you understand what these lines are for in a python program ?
 <details><summary><b>Source</b></summary>
 learning python 5th edition - pag 638
 </details>
+
+### Theorical Question 16
+
+I imagine you know how to sum two numbers in python or how to organiza number or words in a python list, but do you know how to change the behaviour when you sum two objects in python or how to change the way how objects are sorted in a python list ?
+
+<details><summary><b>Answer</b></summary>
+
+you would need to change special method __add__ to change the way how two objects are added up, and to change the way how objects are sorted we need to change the special methods __lt__ and __gt__ 
+
+![Image](img/interceptingOperators.png "intercepting Operators")
+
+![Image](img/interceptingOperatorsPart2.png "intercepting Operators Part 2")
+
+![Image](img/interceptingOperatorsPart3.png "intercepting Operators Part 3")
+
+![Image](img/specialMethodSorting.png "special Method Sorting")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 805
+
+https://stackoverflow.com/questions/48313301/python-sort-has-higher-priority-for-lt-than-gt
+</details>
+
+### Theorical Question 17
+
+Do you know what specal methods could you use to change objects behaviours ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/overloadingMethods.png "overloading Methods")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 805
+
+https://stackoverflow.com/questions/48313301/python-sort-has-higher-priority-for-lt-than-gt
+</details>
+
+
+### Theorical Question 18
+
+Do you understand what abstractMethod are for in python  ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/abstractMethods.png "abstract Methods")
+
+![Image](img/abstractMethodsPart2.png "abstract Methods Part 2")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+learning python 5th edition - pag 870
+</details>
