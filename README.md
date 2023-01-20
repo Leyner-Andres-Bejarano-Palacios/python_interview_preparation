@@ -418,3 +418,242 @@ Do you understand what managed attributes and properties are ?
 <details><summary><b>Source</b></summary>
 learning python 5th edition - pag 1081
 </details>
+
+### Theorical Question 26
+
+Do you know what corutines are ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/corutines.png "corutines")
+
+![Image](img/corutinesPart2.png "corutines part 2")
+
+![Image](img/corutinesPart3.png "corutines part 3")
+
+![Image](img/corutinesPart4.png "corutines part 4")
+
+![Image](img/corutinesPart5.png "corutines part 5")
+
+![Image](img/corutinesPart6.png "corutines part 6")
+
+![Image](img/corutinesPart7.png "corutines part 7")
+
+![Image](img/corutinesPart8.png "corutines part 8")
+
+![Image](img/corutinesPart9.png "corutines part 9")
+
+![Image](img/corutinesPart10.png "corutines part 10")
+
+![Image](img/corutinesPart11.png "corutines part 11")
+
+![Image](img/corutinesPart12.png "corutines part 12")
+
+![Image](img/corutinesPart13.png "corutines part 13")
+
+![Image](img/corutinesPart14.png "corutines part 14")
+</details>
+
+<details><summary><b>Source</b></summary>
+fluent python - pag 468
+</details>
+
+### Theorical Question 27
+
+Do you know what futures are and what concurrency is ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/futures.png "futures")
+
+![Image](img/futuresPart2.png "futures part 2")
+
+![Image](img/futuresPart3.png "futures part 3")
+
+![Image](img/futuresPart4.png "futures part 4")
+
+![Image](img/futuresPart5.png "futures part 5")
+
+![Image](img/futuresPart6.png "futures part 6")
+
+![Image](img/futuresPart7.png "futures part 7")
+
+![Image](img/futuresPart8.png "futures part 8")
+
+![Image](img/futuresPart9.png "futures part 9")
+
+![Image](img/futuresPart10.png "futures part 10")
+
+![Image](img/futuresPart11.png "futures part 11")
+
+![Image](img/futuresPart12.png "futures part 12")
+
+![Image](img/futuresPart13.png "futures part 13")
+</details>
+
+<details><summary><b>Source</b></summary>
+fluent python - pag 505
+</details>
+
+
+### Theorical Question 28
+
+Do you know what the GIL is ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/GIL.png "GIL")
+
+![Image](img/GIL_part2.png "GIL part 2")
+
+![Image](img/GIL_part3.png "GIL part 3")
+
+![Image](img/GIL_part4.png "GIL part 4")
+
+![Image](img/GIL_part5.png "GIL part 5")
+
+![Image](img/GIL_part6.png "GIL part 6")
+
+![Image](img/GIL_part7.png "GIL part 7")
+
+![Image](img/GIL_part8.png "GIL part 8")
+
+![Image](img/GIL_part9.png "GIL part 9")
+
+![Image](img/GIL_part10.png "GIL part 10")
+
+![Image](img/GIL_part11.png "GIL part 11")
+
+![Image](img/GIL_part12.png "GIL part 12")
+
+![Image](img/GIL_part13.png "GIL part 13")
+
+![Image](img/GIL_part14.png "GIL part 14")
+
+![Image](img/GIL_part15.png "GIL part 15")
+
+![Image](img/GIL_part16.png "GIL part 16")
+
+![Image](img/GIL_part17.png "GIL part 17")
+
+![Image](img/GIL_part18.png "GIL part 18")
+</details>
+
+<details><summary><b>Source</b></summary>
+fluent python - pag 505
+</details>
+
+### Theorical Question 29
+
+Do you know what the asyncio python library is ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/asyncio.png "asyncio")
+
+![Image](img/asyncioPart2.png "asyncio part 2")
+
+![Image](img/asyncioPart3.png "asyncio part 3")
+
+![Image](img/asyncioPart4.png "asyncio part 4")
+
+![Image](img/asyncioPart5.png "asyncio part 5")
+
+![Image](img/asyncioPart6.png "asyncio part 6")
+
+![Image](img/asyncioPart7.png "asyncio part 7")
+
+![Image](img/asyncioPart8.png "asyncio part 8")
+
+![Image](img/asyncioPart9.png "asyncio part 9")
+
+![Image](img/asyncioPart10.png "asyncio part 10")
+
+![Image](img/asyncioPart11.png "asyncio part 11")
+
+![Image](img/asyncioPart12.png "asyncio part 12")
+
+![Image](img/asyncioPart13.png "asyncio part 13")
+
+![Image](img/asyncioPart14.png "asyncio part 14")
+
+![Image](img/asyncioPart15.png "asyncio part 15")
+
+![Image](img/asyncioPart16.png "asyncio part 16")
+
+![Image](img/asyncioPart17.png "asyncio part 17")
+
+![Image](img/asyncioPart18.png "asyncio part 18")
+
+![Image](img/asyncioPart19.png "asyncio part 19")
+
+![Image](img/asyncioPart20.png "asyncio part 20")
+
+![Image](img/asyncioPart21.png "asyncio part 21")
+
+![Image](img/asyncioPart22.png "asyncio part 22")
+
+![Image](img/asyncioPart23.png "asyncio part 23")
+
+![Image](img/asyncioPart24.png "asyncio part 24")
+
+![Image](img/asyncioPart25.png "asyncio part 25")
+
+![Image](img/asyncioPart26.png "asyncio part 26")
+
+![Image](img/asyncioPart27.png "asyncio part 27")
+
+![Image](img/asyncioPart28.png "asyncio part 28")
+
+![Image](img/asyncioPart29.png "asyncio part 29")
+
+![Image](img/asyncioPart30.png "asyncio part 30")
+
+![Image](img/asyncioPart31.png "asyncio part 31")
+
+![Image](img/asyncioPart32.png "asyncio part 32")
+
+![Image](img/asyncioPart33.png "asyncio part 33")
+
+![Image](img/asyncioPart34.png "asyncio part 34")
+
+![Image](img/asyncioPart35.png "asyncio part 35")
+
+![Image](img/asyncioPart36.png "asyncio part 36")
+
+![Image](img/asyncioPart37.png "asyncio part 37")
+
+![Image](img/asyncioPart38.png "asyncio part 38")
+
+![Image](img/asyncioPart39.png "asyncio part 39")
+
+![Image](img/asyncioPart40.png "asyncio part 40")
+
+![Image](img/asyncioPart41.png "asyncio part 41")
+
+![Image](img/asyncioPart42.png "asyncio part 42")
+
+![Image](img/asyncioPart43.png "asyncio part 43")
+
+![Image](img/asyncioPart44.png "asyncio part 44")
+
+![Image](img/asyncioPart45.png "asyncio part 45")
+
+![Image](img/asyncioPart46.png "asyncio part 46")
+
+![Image](img/asyncioPart47.png "asyncio part 47")
+
+![Image](img/asyncioPart48.png "asyncio part 48")
+
+![Image](img/asyncioPart49.png "asyncio part 49")
+
+![Image](img/asyncioPart50.png "asyncio part 50")
+
+![Image](img/asyncioPart51.png "asyncio part 51")
+
+![Image](img/asyncioPart52.png "asyncio part 52")
+</details>
+
+<details><summary><b>Source</b></summary>
+fluent python - pag 538
+</details>
