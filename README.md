@@ -657,3 +657,19 @@ Do you know what the asyncio python library is ?
 <details><summary><b>Source</b></summary>
 fluent python - pag 538
 </details>
+
+### Theorical Question 30
+
+Do you know the difference between \__new__ and \__init__  ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/difference_init_new.png "difference init new")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+
+https://santoshk.dev/posts/2022/__init__-vs-__new__-and-when-to-use-them/#:~:text=__new__%20returns%20a,returned%20by%20__new__%20.
+
+</details>
